@@ -12,3 +12,10 @@ UU-A0資源收集
 * 輕觸開關12*12*4.3MM x 2
 * 輕觸開關 6*6*4.3MM x 4
 * 有源蜂鳴器 x 1
+
+# 安裝函數庫
+* [Arduboy2](https://github.com/MLXXXp/Arduboy2)
+* [ArduboyTones](https://github.com/MLXXXp/ArduboyTones)
+
+# 官方粉絲團
+[無限升級](https://www.facebook.com/unlimited.upgrade)
