@@ -27,6 +27,8 @@ UU-A0資源收集
   * 支援Windows、MacOS、linux
 * [ArduboyUploader](https://github.com/eried/ArduboyUploader/releases/tag/1.4)
   * 支援Windows
+* [arduboy_toolset](https://github.com/randomouscrap98/arduboy_toolset/releases/tag/v0.7.1)
+  * 支援Windows   
 * [xLoader](https://github.com/binaryupdates/xLoader)
   * 支援Windows
 * [Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
@@ -37,8 +39,8 @@ UU-A0資源收集
 * [【線上玩】ArduFXTest](https://bateske.github.io/ArduFXTest/)
 * [【線上玩】arduboy.ried](https://arduboy.ried.cl/)
 * [【Arduboy】arduboy](https://www.arduboy.com/?spm=a2c4e.11153940.blogcont658194.6.45b54ecbV1huX1)
-
-
+* [【論壇】arduboy](https://community.arduboy.com/)
+ 
 
 # 網路教學
 * [【UU-A系列】遊戲開發(1)-線上開發](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-1-%E7%B7%9A%E4%B8%8A%E9%96%8B%E7%99%BC-19f8f091bb55)
