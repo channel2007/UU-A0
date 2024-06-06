@@ -51,6 +51,11 @@ UU-A0資源收集
 * [【論壇】arduboy](https://community.arduboy.com/)
  
 # 網路教學
+* [【UU-A系列】Arduhandheld變磚處理大法](https://www.facebook.com/notes/906590089746956/)
+* [【UU-A系列】Arduhandheld外殼](https://www.facebook.com/notes/687881295267364/)
+* [【UU-A系列】阿杜掌機(Arduhandheld)遊戲開發(二) - 測試程式教學](https://www.facebook.com/notes/683344359271378/)
+* [【UU-A系列】阿杜掌機(Arduhandheld)遊戲開發(一) - 函數庫安裝篇](https://www.facebook.com/notes/1042182786225668/)
+* [【UU-A系列】好用的Arduboy Manager燒錄與管理工具](https://www.facebook.com/notes/796706577772025/)
 * [【UU-A系列】遊戲開發(1)-線上開發](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-1-%E7%B7%9A%E4%B8%8A%E9%96%8B%E7%99%BC-19f8f091bb55)
 * [【UU-A系列】遊戲開發(2)-基本框架](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-2-%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6-2ec7a07dc4df)
 
