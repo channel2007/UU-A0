@@ -23,7 +23,8 @@ UU-A0資源收集
 * [ArduboyTones](https://github.com/MLXXXp/ArduboyTones)
 
 # 燒錄軟體
-* [【PC燒錄軟體】ArduboyUploader](https://github.com/eried/ArduboyUploader)
+* [【PC燒錄】xLoader](https://github.com/binaryupdates/xLoader)
+* [【PC燒錄】ArduboyUploader](https://github.com/eried/ArduboyUploader)
 * [【Android燒錄】Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
 
 # 網路資源
