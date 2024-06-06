@@ -37,7 +37,7 @@ UU-A0資源收集
   * <a href="https://github.com/channel2007/UU-A0/blob/master/img/XLoader.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/XLoader.jpg" alt="abupload" width="640" height="480" border="10" /></a>   
 * [Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
   * 支援Android
-  * <a href="" target="_blank"><img src="" alt="abupload" width="640" height="480" border="10" /></a>   
+  * <a href="https://github.com/channel2007/UU-A0/blob/master/img/ArbyUtility.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/ArbyUtility.jpg" alt="abupload" width="640" height="480" border="10" /></a>   
 
 # 網路資源
 * [【線上開發工具】ProjectABE](https://felipemanga.github.io/ProjectABE/)
@@ -46,13 +46,9 @@ UU-A0資源收集
 * [【Arduboy】arduboy](https://www.arduboy.com/?spm=a2c4e.11153940.blogcont658194.6.45b54ecbV1huX1)
 * [【論壇】arduboy](https://community.arduboy.com/)
  
-
 # 網路教學
 * [【UU-A系列】遊戲開發(1)-線上開發](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-1-%E7%B7%9A%E4%B8%8A%E9%96%8B%E7%99%BC-19f8f091bb55)
 * [【UU-A系列】遊戲開發(2)-基本框架](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-2-%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6-2ec7a07dc4df)
-
-
-
 
 
 # 官方粉絲團
