@@ -23,10 +23,14 @@ UU-A0資源收集
 * [ArduboyTones](https://github.com/MLXXXp/ArduboyTones)
 
 # 燒錄軟體
-* [【PC燒錄+遊戲】ArduManFX](https://github.com/tuxinator2009/ArduManFX)
-* [【PC燒錄】ArduboyUploader](https://github.com/eried/ArduboyUploader)
-* [【PC燒錄】xLoader](https://github.com/binaryupdates/xLoader)
-* [【Android燒錄】Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
+* [ArduManFX](https://github.com/tuxinator2009/ArduManFX/releases)
+  * 支援win64、win32、MacOS、linux
+* [ArduboyUploader](https://github.com/eried/ArduboyUploader/releases/tag/1.4)
+  * 支援win64
+* [xLoader](https://github.com/binaryupdates/xLoader)
+  * 支援win64
+* [Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
+  * 支援Android
 
 # 網路資源
 * [【線上開發工具】ProjectABE](https://felipemanga.github.io/ProjectABE/)
