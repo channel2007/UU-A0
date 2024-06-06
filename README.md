@@ -24,13 +24,13 @@ UU-A0資源收集
 
 # 燒錄軟體
 * [ArduManFX](https://github.com/tuxinator2009/ArduManFX/releases)
- * 支援win64、win32、MacOS、linux
+  * 支援Windows、MacOS、linux
 * [ArduboyUploader](https://github.com/eried/ArduboyUploader/releases/tag/1.4)
- * 支援win64
+  * 支援Windows
 * [xLoader](https://github.com/binaryupdates/xLoader)
- * 支援win64
+  * 支援Windows
 * [Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
- * 支援Android
+  * 支援Android
 
 # 網路資源
 * [【線上開發工具】ProjectABE](https://felipemanga.github.io/ProjectABE/)
