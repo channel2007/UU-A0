@@ -5,6 +5,10 @@ UU-A0資源收集
 * doc ==> 文件目錄
 * img==>圖片目錄
 * source==>範例、遊戲原始碼
+  * DonkeyKong==>大金剛原始碼
+  * MerryCook==>廚師原始碼
+  * TestButton==>按鈕測試原始碼
+  * TestDraw==>測試原始碼
 
 # 線路圖
 ![alt CircuitDiagram](https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg "CircuitDiagram")
