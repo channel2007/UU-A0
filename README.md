@@ -22,9 +22,18 @@ UU-A0資源收集
 * [Arduboy2](https://github.com/MLXXXp/Arduboy2)
 * [ArduboyTones](https://github.com/MLXXXp/ArduboyTones)
 
+# 燒錄軟體
+* [【PC燒錄軟體】ArduboyUploader](https://github.com/eried/ArduboyUploader)
+* [【Android燒錄】Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
+
 # 網路資源
 * [【線上開發工具】ProjectABE](https://felipemanga.github.io/ProjectABE/)
 * [【線上玩】ArduFXTest](https://bateske.github.io/ArduFXTest/)
+* [【線上玩】arduboy.ried](https://arduboy.ried.cl/)
+*
+
+
+
 
 
 # 官方粉絲團
