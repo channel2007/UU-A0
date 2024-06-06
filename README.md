@@ -25,6 +25,7 @@ UU-A0資源收集
 # 燒錄軟體
 * [ArduManFX](https://github.com/tuxinator2009/ArduManFX/releases)
   * 支援Windows、MacOS、linux
+ <img src="https://github.com/channel2007/UU-A0/tree/master/img/ArduManFX.jpg" alt="ArduManFX" width="640" height="480" border="10" />
 * [ArduboyUploader](https://github.com/eried/ArduboyUploader/releases/tag/1.4)
   * 支援Windows
 * [arduboy_toolset](https://github.com/randomouscrap98/arduboy_toolset/releases/tag/v0.7.1)
