@@ -14,7 +14,7 @@ UU-A0資源收集
   * TestDraw ==> 測試原始碼
 
 # 線路圖
-![alt CircuitDiagram](https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg "CircuitDiagram")
+<a href="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" alt="abupload" width="640" height="480" border="10" /></a>
 
 # 準備零件
 * Arduino Pro Micro x 1
@@ -44,7 +44,7 @@ UU-A0資源收集
   * <a href="https://github.com/binaryupdates/xLoader" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/XLoader.jpg" alt="abupload" width="640" height="480" border="10" /></a>   
 * [Arby Utility](https://github.com/obono/ArbyUtility?tab=readme-ov-file)
   * 支援Android
-  * <a href="https://github.com/obono/ArbyUtility?tab=readme-ov-file" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/ArbyUtility.jpg" alt="abupload" width="640" height="480" border="10" /></a>   
+  * <a href="https://github.com/obono/ArbyUtility?tab=readme-ov-file" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/ArbyUtility.jpg" alt="abupload" width="640" height="480" border="10" /></a>
 
 # 網路資源
 * [【線上開發工具】ProjectABE](https://felipemanga.github.io/ProjectABE/)
