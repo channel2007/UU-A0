@@ -51,7 +51,6 @@ UU-A0資源收集
 * [【論壇】arduboy](https://community.arduboy.com/)
  
 # 網路教學
-* [【UU-A系列】Arduhandheld變磚處理大法](https://www.facebook.com/notes/906590089746956/)
 * [【UU-A系列】Arduhandheld外殼](https://www.facebook.com/notes/687881295267364/)
 * [【UU-A系列】阿杜掌機(Arduhandheld)遊戲開發(二) - 測試程式教學](https://www.facebook.com/notes/683344359271378/)
 * [【UU-A系列】阿杜掌機(Arduhandheld)遊戲開發(一) - 函數庫安裝篇](https://www.facebook.com/notes/1042182786225668/)
@@ -59,6 +58,12 @@ UU-A0資源收集
 * [【UU-A系列】阿杜掌機教學資源](https://medium.com/@uupgrade/arduino-pro-micro%E6%8E%8C%E6%A9%9F%E8%B3%87%E6%BA%90-4a99ceb9bd20)
 * [【UU-A系列】遊戲開發(1)-線上開發](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-1-%E7%B7%9A%E4%B8%8A%E9%96%8B%E7%99%BC-19f8f091bb55)
 * [【UU-A系列】遊戲開發(2)-基本框架](https://uupgrade.medium.com/uu-a%E7%B3%BB%E5%88%97-%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC-2-%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6-2ec7a07dc4df)
+
+# 關於機器變磚塊問題
+* 如果發現燒錄某個遊戲後機器在也不能再燒錄其他遊戲，那就表示機器變磚塊了，以下提供兩種方法解決機器磚塊問題：
+  * 方法一：參考以下網址製作可以恢復變磚機器的裝置
+    * [【UU-A系列】Arduhandheld變磚處理大法](https://www.facebook.com/notes/906590089746956/)
+  * 方法二：。。。
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
