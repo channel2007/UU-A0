@@ -3,9 +3,9 @@ UU-A0資源收集
 
 # 目錄說明
 * doc ==> 文件目錄
-  * Tutorial_1.pdf ==> 
-  * Tutorial_2.pdf ==> 
-  * UU-A0_Manual_v1.1.pdf ==> 
+  * Tutorial_1.pdf ==> Arduino Handheld 遊戲開發(一)-函數庫安裝篇
+  * Tutorial_2.pdf ==> ArduinoHandheld 遊戲開發(二)-測試程式教學
+  * UU-A0_Manual_v1.1.pdf ==> UU-A0掌機使用說明書
 * img ==> 圖片目錄
 * source ==> 範例、遊戲原始碼
   * DonkeyKong ==> 大金剛原始碼
