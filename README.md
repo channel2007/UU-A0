@@ -66,7 +66,8 @@ UU-A0資源收集
 * 如果發現燒錄某個遊戲後機器在也不能再燒錄其他遊戲，那就表示機器變磚塊了，以下提供兩種方法解決機器磚塊問題：
   * 方法一：參考以下網址製作可以恢復變磚機器的裝置
     * [【UU-A系列】Arduhandheld變磚處理大法](https://www.facebook.com/notes/906590089746956/)
-  * 方法二：。。。
+  * 方法二：購賣UU-A1燒錄器(在無限升級賣貨便賣場內有賣)
+    * [進入無限升級賣貨便賣場](https://myship.7-11.com.tw/general/detail/GM2406077577313)
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
