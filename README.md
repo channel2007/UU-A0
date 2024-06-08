@@ -6,12 +6,15 @@ UU-A0資源收集
   * Tutorial_1.pdf ==> Arduino Handheld 遊戲開發(一)-函數庫安裝篇
   * Tutorial_2.pdf ==> ArduinoHandheld 遊戲開發(二)-測試程式教學
   * UU-A0_Manual_v1.1.pdf ==> UU-A0掌機使用說明書
+  * UU-A1_Prog_Manual_v1.0.pdf ==> UU-A1燒錄器使用說明書
 * img ==> 圖片目錄
 * source ==> 範例、遊戲原始碼
   * DonkeyKong ==> 大金剛原始碼
   * MerryCook ==> 廚師原始碼
   * TestButton ==> 按鈕測試原始碼
   * TestDraw ==> 測試原始碼
+* tools ==> 工具目錄
+  * uua1prog.zip ==> UU-A1燒錄器執行程式 
 
 # 線路圖
 <a href="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" alt="abupload" width="640" height="480" border="10" /></a>
