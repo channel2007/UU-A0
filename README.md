@@ -71,7 +71,7 @@ UU-A0資源收集
     * [【UU-A系列】Arduhandheld變磚處理大法](https://www.facebook.com/notes/906590089746956/)
   * 方法二：購賣UU-A1燒錄器(在無限升級賣貨便賣場內有賣)
     * [進入無限升級賣貨便賣場](https://myship.7-11.com.tw/general/detail/GM2406077577313)
-    * <a href="https://github.com/channel2007/UU-A0/blob/master/img/uu_a1_boot.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/uu_a1_boot.jpg" alt="abupload" width="640" height="480" border="10" /></a>         
+    * <a href="https://myship.7-11.com.tw/general/detail/GM2406077577313" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/uu_a1_boot.jpg" alt="abupload" width="640" height="480" border="10" /></a>         
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
