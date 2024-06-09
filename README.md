@@ -17,7 +17,10 @@ UU-A0資源收集
   * uua1prog.zip ==> UU-A1燒錄器執行程式 
 
 # 線路圖
-<a href="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" alt="abupload" width="640" height="480" border="10" /></a>
+* UU-A0、UU-A1
+  * <a href="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/CircuitDiagram.jpg" alt="abupload" width="640" height="480" border="10" /></a>
+* UU-A1燒錄器(取自The case of the broken Pro Micro (reprise)文章)
+  * <a href="https://github.com/channel2007/UU-A0/blob/master/img/uu_a0_cd.jpg" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/uu_a0_cd.jpg" alt="abupload" width="640" height="480" border="10" /></a>
 
 # 準備零件
 * Arduino Pro Micro x 1
