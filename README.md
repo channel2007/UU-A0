@@ -78,6 +78,7 @@ UU-A0資源收集
 
 # 可使用螢幕
 * [1.51吋透明OLED屏帶擴充板128×64解析度SPI/I2C介面藍色顯示屏](https://www.waveshare.net/shop/1.51inch-Transparent-OLED.htm)
+* 2.42吋OLED顯示器模組2.4顯示器128x64驅動SSD1309介面7針
 
 
 # 官方粉絲團
