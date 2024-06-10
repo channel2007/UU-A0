@@ -76,7 +76,7 @@ UU-A0資源收集
     * [進入無限升級賣貨便賣場](https://myship.7-11.com.tw/general/detail/GM2406077577313)
     * <a href="https://myship.7-11.com.tw/general/detail/GM2406077577313" target="_blank"><img src="https://github.com/channel2007/UU-A0/blob/master/img/uu_a1_boot.jpg" alt="abupload" width="640" height="480" border="10" /></a>         
 
-# 可使用螢幕
+# 可用螢幕
 * [1.51吋透明OLED屏帶擴充板128×64解析度SPI/I2C介面藍色顯示屏](https://www.waveshare.net/shop/1.51inch-Transparent-OLED.htm)
 * 2.42吋OLED顯示器模組2.4顯示器128x64驅動SSD1309介面7針
 
